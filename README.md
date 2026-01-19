@@ -5,4 +5,9 @@ Integrantes del equipo:
 - Nombre 2
 
 Estado del proyecto:
-Versión inicial
+Versión en pruebas
+
+Cambios realizados en la rama pruebas:
+- Se agregó esta sección
+- Se modificó el estado del proyecto
+- Se están probando nuevas ideas
